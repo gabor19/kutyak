@@ -1,0 +1,12 @@
+.kep1{
+    float: left;
+}
+.kep2{
+    float: right;
+}
+h1{
+    clear: both;
+}
+img{
+    margin: 5px;
+}
